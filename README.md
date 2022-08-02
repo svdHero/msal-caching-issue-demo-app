@@ -4,6 +4,9 @@ This is a Single-Page-Application (SPA) for debugging the Azure B2C MSAL issue h
 
 To reproduce the bug, do the following:
 
+1. Clone the repo.
+1. Edit the file `env.development`.
 1. Start the app with `npm start`.
 1. Click on the "Sign in" button and sign up / sign in.
-2. Click on "My Devices" in the nav bar and check the browser logs.
+1. Click on "My Devices" in the nav bar.
+1. Check the browser logs.
